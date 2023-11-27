@@ -1,4 +1,4 @@
-# Práctica 1 Compiladores
+# Proyecto final Compiladores
 
 Proyecto realizada con GUI en C# para la clase de Compiladores impartida por el profesor Andrés Ortigoza Campos
 
